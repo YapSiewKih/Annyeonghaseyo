@@ -1,1 +1,3 @@
 # Annyeonghaseyo
+
+Programmer in progress
